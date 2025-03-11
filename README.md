@@ -178,3 +178,6 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 
 ![WhatsApp Image 2025-03-11 at 18 32 26_c9fbf3bc](https://github.com/user-attachments/assets/14f86737-0118-4097-9fe5-f92e88f0beb7)
 
+## RESULT
+
+Thus, this experiment helped in understanding the fundamentals of Linux commands and Bash scripting for automation and system management.

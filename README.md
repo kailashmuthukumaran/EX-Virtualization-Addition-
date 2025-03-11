@@ -1,5 +1,7 @@
 # EX 2 -Virtualization-Addition-
 
+## REGNO: 212222040120
+## NAME:  R.PRASANNA
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
@@ -152,4 +154,27 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 ---
 
 ### OUTPUT
+
+### NOTEPAD METHOD
+
+### PROGRAM
+
+![WhatsApp Image 2025-03-11 at 18 16 29_9d3ccbd0](https://github.com/user-attachments/assets/d3006dd5-5d18-4ad4-a268-8e65f3e2e58e)
+
+### OUTPUT
+
+![WhatsApp Image 2025-03-11 at 18 16 29_aba785b1](https://github.com/user-attachments/assets/ea24bdef-5e01-46ed-8c52-b1fd1b68582c)
+
+### TERMINAL METHOD
+
+![WhatsApp Image 2025-03-11 at 18 16 29_41ef837e](https://github.com/user-attachments/assets/012ce502-2d4d-4082-aae0-c0c708d3838f)
+
+### CHMOD METHOD
+
+![WhatsApp Image 2025-03-11 at 18 35 08_946a1ac0](https://github.com/user-attachments/assets/5c1a95f2-49d0-4a6f-a3f2-746fd67c2d80)
+
+
+### LINUX COMMANDS
+
+![WhatsApp Image 2025-03-11 at 18 32 26_c9fbf3bc](https://github.com/user-attachments/assets/14f86737-0118-4097-9fe5-f92e88f0beb7)
 

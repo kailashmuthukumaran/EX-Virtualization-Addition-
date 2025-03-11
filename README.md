@@ -165,17 +165,19 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 ### OUTPUT
 
 
-![Uploading WhatsApp Image 2025-03-11 at 18.38.09_3948173b.jpg…]()
+![WhatsApp Image 2025-03-11 at 18 38 09_7513f36a](https://github.com/user-attachments/assets/608d3add-7d6d-4e21-a858-5a1c06f8a1f9)
+
 
 
 ### TERMINAL METHOD
 
-![Uploading WhatsApp Image 2025-03-11 at 18.39.02_37efbb4d.jpg…]()
+
+![WhatsApp Image 2025-03-11 at 18 39 02_169d91c1](https://github.com/user-attachments/assets/8c76c8fd-fd60-4093-8197-f9ce61f924fe)
 
 
 ### CHMOD METHOD
 
-![Uploading WhatsApp Image 2025-03-11 at 18.39.55_1e14736c.jpg…]()
+![WhatsApp Image 2025-03-11 at 18 39 55_cfa78926](https://github.com/user-attachments/assets/915d0ee0-755f-4dbc-ac0e-cbdea76ecafe)
 
 
 

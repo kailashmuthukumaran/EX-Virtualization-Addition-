@@ -159,24 +159,28 @@ Install and configure Kali Linux in Oracle VM VirtualBox.
 
 ### PROGRAM
 
-![WhatsApp Image 2025-03-11 at 18 16 29_9d3ccbd0](https://github.com/user-attachments/assets/d3006dd5-5d18-4ad4-a268-8e65f3e2e58e)
+![WhatsApp Image 2025-03-11 at 18 38 31_04921243](https://github.com/user-attachments/assets/d28960ab-9f06-43c4-9fec-46c9f89af27e)
+
 
 ### OUTPUT
 
-![WhatsApp Image 2025-03-11 at 18 16 29_aba785b1](https://github.com/user-attachments/assets/ea24bdef-5e01-46ed-8c52-b1fd1b68582c)
+![WhatsApp Image 2025-03-11 at 18 38 09_e2aae22d](https://github.com/user-attachments/assets/63c30d2a-6aa0-4bdb-9229-5ef58e957de6)
+
 
 ### TERMINAL METHOD
 
-![WhatsApp Image 2025-03-11 at 18 16 29_41ef837e](https://github.com/user-attachments/assets/012ce502-2d4d-4082-aae0-c0c708d3838f)
+![WhatsApp Image 2025-03-11 at 18 39 02_4d561c5e](https://github.com/user-attachments/assets/5f898f82-454f-4215-9c17-cde4c1579c4f)
+
 
 ### CHMOD METHOD
 
-![WhatsApp Image 2025-03-11 at 18 35 08_946a1ac0](https://github.com/user-attachments/assets/5c1a95f2-49d0-4a6f-a3f2-746fd67c2d80)
+![WhatsApp Image 2025-03-11 at 18 39 55_0b747887](https://github.com/user-attachments/assets/9eaa5fcd-7743-413e-8ad1-acc986704ebf)
 
 
 ### LINUX COMMANDS
 
-![WhatsApp Image 2025-03-11 at 18 32 26_c9fbf3bc](https://github.com/user-attachments/assets/14f86737-0118-4097-9fe5-f92e88f0beb7)
+![WhatsApp Image 2025-03-11 at 18 39 37_9a98cf58](https://github.com/user-attachments/assets/eb50349a-50f1-4a09-9671-6b10f875f8b4)
+
 
 ## RESULT
 

@@ -1,7 +1,7 @@
 # EX 2 -Virtualization
 
-## REGNO: 212222040120
-## NAME:  R.PRASANNA
+## REGNO: 212222040068
+## NAME: S.M.KAILASH
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
